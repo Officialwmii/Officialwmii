@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wmiiaudio@gmail.com**
 
-- 📄 Know about my experiences [http://waynemessamii.com/affiliations/](http://waynemessamii.com/affiliations/)
+- 📄 Know about my experiences [http://waynemessamii.com/affiliations/ and https://gitlab.com/officialwaynemii](http://waynemessamii.com/affiliations/ and https://gitlab.com/officialwaynemii)
 
 - ⚡ Fun fact **I host a podcast called The Minute Kings!**
 
