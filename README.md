@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wayne M Messam II</h1>
 <h3 align="center">A passionate audio programmer from Miramar Florida</h3>
 
-- 🔭 I’m currently working on [The Sunrise Samurai](https://www.neptunescloud.com/projects/)
+- 🔭 I’m currently working on [Silent Space]
 
-- 🌱 I’m currently learning **2D Unity Programming**
+- 🌱 I’m currently learning **C++ and Unreal Engine 5**
 
 - 👯 I’m looking to collaborate on **Typhon: King of Dragons Origins**
 
