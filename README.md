@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Typhon: King of Dragons Origins**
 
-- 🤝 I’m looking for help with **Typhon: King of Dragons Origins**
+- 🤝 I’m looking for help with **Tyren: King of Dragons**
 
 - 👨‍💻 All of my projects are available at [https://www.waynemessamii.com/](https://www.waynemessamii.com/)
 
