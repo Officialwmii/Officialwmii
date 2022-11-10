@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C++ and Unreal Engine 5**
 
-- 👯 I’m looking to collaborate on **Typhon: King of Dragons Origins**
+- 👯 I’m looking to collaborate on **King of Dragons: Duality**
 
-- 🤝 I’m looking for help with **Tyren: King of Dragons Intersections**
+- 🤝 I’m looking for help with **King of Dragons: Duality**
 
 - 👨‍💻 All of my projects are available at [https://www.waynemessamii.com/](https://www.waynemessamii.com/)
 
