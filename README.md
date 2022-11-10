@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wayne M Messam II</h1>
 <h3 align="center">A passionate audio programmer from Miramar Florida</h3>
 
-- 🔭 I’m currently working on [Silent Space]
+- 🔭 I’m currently working on [KOD: Duality]
 
 - 🌱 I’m currently learning **C++ and Unreal Engine 5**
 
